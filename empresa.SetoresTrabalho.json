@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6515793cda95cbfb29007352"
+  },
+  "sigla": "TI",
+  "descricao": "Tecnologia da Informação",
+  "salario": 8000
+},
+{
+  "_id": {
+    "$oid": "6515793cda95cbfb29007353"
+  },
+  "sigla": "RH",
+  "descricao": "Recursos Humanos",
+  "salario": 7000
+},
+{
+  "_id": {
+    "$oid": "6515793cda95cbfb29007354"
+  },
+  "sigla": "FIN",
+  "descricao": "Financeiro",
+  "salario": 8500
+},
+{
+  "_id": {
+    "$oid": "6515793cda95cbfb29007355"
+  },
+  "sigla": "ADM",
+  "descricao": "Administração",
+  "salario": 7500
+}]

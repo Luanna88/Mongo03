@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "651573b7da95cbfb29007348"
+  },
+  "nome": "João Silva",
+  "idade": 30,
+  "cargo": "Gerente",
+  "cidade": "São Paulo",
+  "endereco": "Avenida Paulista, 123"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb29007349"
+  },
+  "nome": "Maria Oliveira",
+  "idade": 25,
+  "cargo": "Analista",
+  "cidade": "Rio de Janeiro",
+  "endereco": "Rua Copacabana, 456"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb2900734a"
+  },
+  "nome": "Pedro",
+  "idade": 35,
+  "cargo": "Desenvolvedor",
+  "cidade": "Belo Horizonte"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb2900734b"
+  },
+  "nome": "Ana",
+  "idade": 28,
+  "cargo": "Coordenador",
+  "cidade": "Brasília"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb2900734c"
+  },
+  "nome": "Carlos",
+  "idade": 32,
+  "cargo": "Engenheiro",
+  "cidade": "Porto Alegre"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb2900734d"
+  },
+  "nome": "Laura",
+  "idade": 29,
+  "cargo": "Analista",
+  "cidade": "Curitiba"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb2900734e"
+  },
+  "nome": "Rafael",
+  "idade": 26,
+  "cargo": "Designer",
+  "cidade": "Salvador"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb2900734f"
+  },
+  "nome": "Mariana",
+  "idade": 27,
+  "cargo": "Analista",
+  "cidade": "Recife"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb29007350"
+  },
+  "nome": "Fernando",
+  "idade": 33,
+  "cargo": "Gerente",
+  "cidade": "Fortaleza"
+},
+{
+  "_id": {
+    "$oid": "651573b7da95cbfb29007351"
+  },
+  "nome": "Luiza",
+  "idade": 24,
+  "cargo": "Desenvolvedor",
+  "cidade": "Manaus"
+}]

@@ -1,0 +1,20 @@
+Prática III
+
+● Faça uma base de dados com as seguintes características;
+1. Crie uma base de dados chamada Empresa;
+2. Adicione uma coleção chamada Pessoa;
+3. Atribua a cada Documento em Pessoa os seguintes
+atributos: nome, idade, cargo, cidade.
+3.1 Faça a atribuição para 10 pessoas;
+4. Atualize os dados de duas pessoas, em que faça a
+complementação do nome e endereço.
+5. Filtre apenas as pessoas com idade maior que 25 anos,
+sem apareça o id.
+6. Faça a agregação para calcular a média de idade das
+pessoas por cidade.
+7. Crie uma nova coleção dos setores de trabalho, em cada
+setor deverá constar: sigla, descrição e salário
+7.1 Faça a inclusão de 4 siglas distintas.
+8. Qual o setor de trabalho com maior?
+9. Qual o setor de trabalho com menor salário?
+10. Qual a média dos salários dos setores de trabalho?
